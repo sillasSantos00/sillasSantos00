@@ -1,6 +1,6 @@
 
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/141df49b-37b3-474c-b0d4-678d5560a732">
 </p>
 
 
@@ -11,6 +11,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
  
+
 
 
 
