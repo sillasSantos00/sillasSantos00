@@ -8,15 +8,6 @@
 
 ---
 
-### 🧠 Sobre mim
-
-- 🌱 Atualmente estudando **Java**
-- 💡 Gosto de criar soluções simples e funcionais
-- 🎯 Focado em desenvolvimento **backend**
-- 📫 Meu GitHub: [sillasSantos00](https://github.com/sillasSantos00)
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <table>
