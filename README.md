@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/141df49b-37b3-474c-b0d4-678d5560a732" width="300" />
 </p>
 
-<h1 align="center">Olá, eu sou o Sillas! 👋</h1>
+<h1 align="center">Hello, I'm Sillas! 👋</h1>
 
 <p align="center">💻 Desenvolvedor em formação | 🎓 Estudando Java | 🚀 Futuro Dev Fullstack</p>
 
