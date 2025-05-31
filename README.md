@@ -73,16 +73,5 @@
 
 
 
-### 🔗 Contato
 
-<p>
-  <a href="https://github.com/sillasSantos00">
-    <img src="https://img.shields.io/badge/GitHub-sillasSantos00-181717?style=flat&logo=github" />
-  </a>
-</p>
 
----
-
-### ✨ Obrigado por visitar meu perfil!
-
-<p align="center">"A prática leva à perfeição. Cada linha de código me aproxima do meu objetivo."</p>
