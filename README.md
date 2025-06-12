@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello, I'm Sillas! 👋</h1>
 
-<p align="center">💻 Desenvolvedor em formação | 🎓 Estudando Java | 🚀 Futuro Dev Fullstack</p>
+
 
 ---
 
