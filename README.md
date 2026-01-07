@@ -4,23 +4,6 @@
 
 <h1 align="center">Hello, I'm Sillas! 👋</h1>
 
-
-
----
-
-### 📊 Estatísticas do GitHub
-
-<table>
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sillasSantos00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=00000000&border_color=FFFFFF"/>
-    </td>
-    <td>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillasSantos00&layout=compact&langs_count=6&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=00000000&border_color=FFFFFF" />
-
-
-  </tr>
-  
       
   
   
