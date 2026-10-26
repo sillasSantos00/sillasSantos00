@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 🛠️ Tecnologias que Uso
 
 <img 
     align="left" 
