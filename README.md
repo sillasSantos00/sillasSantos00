@@ -1,13 +1,10 @@
 <p align="center">
   
-
+<img width="400" height="711" alt="Image" src="https://github.com/user-attachments/assets/bf3a4003-47a5-464f-9f08-63fbf3b767ae" />  
 
 </p>
 
 <h1 align="center">Hello, I'm Sillas! 👋</h1>
-
-      
-  
   
 </table>
 
